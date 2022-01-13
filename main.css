@@ -3,6 +3,11 @@ body {
     padding: 0;
 }
 
+.logo {
+    width: 140px;
+    height: auto;
+}
+
 .h1 {
     color: red;
 }
