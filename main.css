@@ -105,7 +105,7 @@ p {
 
 .liste {
     width: 299px;
-    background: url("../img/icon1.jpg") no-repeat center top;
+    background: url("../icon1.jpg") no-repeat center top;
     padding-top: 100px;
 }
 
@@ -125,12 +125,12 @@ p {
 }
 
 .liste2 {
-    background: url("../img/icon2.jpg") no-repeat center top;
+    background: url("../icon2.jpg") no-repeat center top;
 }
 
 .liste3 {
     width: 318px;
-    background: url("../img/icon3.jpg") no-repeat center top;
+    background: url("../icon3.jpg") no-repeat center top;
 }
 
 .section2 {
