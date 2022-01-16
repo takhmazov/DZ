@@ -161,13 +161,13 @@ p {
 .btn2 {
     margin: 0 auto;
     width: 342px;
+    color: #2e2a1b;
     border: none;
     background-color: #ffd429;
 }
 
 .credits {
     margin: 0;
-    color: #2e2a1b;
 }
     
 .footer {
