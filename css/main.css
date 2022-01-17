@@ -167,6 +167,7 @@ p {
 .btn2 {
     margin: 0 auto;
     width: 342px;
+    color: #2e2a1b;
     border: none;
     background-color: #ffd429;
 }
@@ -179,6 +180,10 @@ p {
     color: #fff;
     padding: 65px 0;
     text-align: center;
+}
+
+.credits {
+    margin: 0;
 }
 
 /* Responsiv */
