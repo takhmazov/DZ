@@ -261,19 +261,19 @@ p {
 /* 0 - 576px. */
 @media screen and (max-width: 576px) {
     .container {
-        width: 100%;
+        width: 90%;
     }
     .logo-hd {
-        width: 100%;
+        width: 90%;
     }
     .title {
-        width: 100%;
+        width: 90%;
     }
     .intro {
-        width: 100%;
+        width: 90%;
     }
     .offer {
-        width: 100%;
+        width: 90%;
     }
     .section {
         padding-bottom: 10px;
@@ -286,7 +286,7 @@ p {
         padding: 0;
     }
     .inhalt-form {
-        width: 100%;
+        width: 90%;
         border-radius: 100px;
     }
     .btn {
