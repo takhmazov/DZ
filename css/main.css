@@ -192,15 +192,6 @@ p {
     .container {
         width: 960px;
 }
-    .logo-hd {
-        width: 641px;
-    }
-
-/* 768 - 992px. */
-@media screen and (max-width: 992px) {
-    .container {
-        width: 720px;
-}
 .logo {
     display: block;
     margin: 0 auto;
@@ -254,6 +245,12 @@ p {
 }
 }
 
+/* 768 - 992px. */
+@media screen and (max-width: 992px) {
+    .container {
+        width: 720px;
+}
+}
 /* 576 - 768px. */
 @media screen and (max-width: 768px) {
     .container {
